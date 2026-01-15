@@ -286,6 +286,29 @@ sccg/
 
 欢迎提交 Issue 和 Pull Request！
 
+## ☕️ 请喝一杯咖啡
+
+如果这个工具帮您节省了时间，欢迎请作者喝杯咖啡！您的支持是我持续维护和改进这个项目的动力。
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="images/weixin.jpg" width="200px" alt="微信支付" />
+        <br />
+        <b>微信支付</b>
+      </td>
+      <td align="center">
+        <img src="images/alipay.jpg" width="200px" alt="支付宝支付" />
+        <br />
+        <b>支付宝支付</b>
+      </td>
+    </tr>
+  </table>
+</div>
+
+感谢您的支持！🙏
+
 ---
 
 **作者**: jimmy  
