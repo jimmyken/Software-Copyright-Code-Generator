@@ -1,0 +1,8 @@
+.idea
+__pycache__
+dist
+build
+*.pyc
+sccg.egg-info
+sccg.spec
+venv

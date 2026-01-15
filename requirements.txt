@@ -1,0 +1,13 @@
+# sccg 项目依赖 - Software Copyright Code Generator
+# Python 3.11+ 兼容
+
+# 命令行界面框架
+click>=8.0.0
+
+# Word 文档处理
+python-docx>=0.8.11
+
+# 开发依赖（可选）
+# pytest>=7.0.0  # 用于单元测试
+# black>=22.0.0  # 代码格式化
+# flake8>=4.0.0  # 代码检查
