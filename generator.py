@@ -9,7 +9,7 @@ import os
 import sys
 from pathlib import Path
 from docx import Document
-from docx.shared import Pt, Inches, RGBColor
+from docx.shared import Pt, Inches
 from docx.enum.text import WD_ALIGN_PARAGRAPH
 from docx.oxml.ns import qn
 import argparse
